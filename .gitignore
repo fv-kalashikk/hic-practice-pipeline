@@ -20,3 +20,4 @@ tools/juicer
 # служебное
 .DS_Store
 *.log
+tools/juicer/
