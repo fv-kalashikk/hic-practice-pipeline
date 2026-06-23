@@ -1,0 +1,19 @@
+# сырые и обрезанные риды
+data/raw/
+data/trimmed/
+
+# референс и его индексы
+data/reference/
+
+# промежуточные файлы juicer
+data/juicer/
+
+# итоговые hic файлы 
+results/hic/
+
+# ридми
+./README.md
+
+# служебное
+.DS_Store
+*.log
